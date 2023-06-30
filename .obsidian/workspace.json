@@ -11,8 +11,15 @@
             "id": "39558beb54ba9720",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Test Canvas.canvas",
+                "viewState": {
+                  "x": -290,
+                  "y": -170,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Canvas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test Canvas.canvas"
+              }
             }
           }
         ]
@@ -140,8 +151,8 @@
   },
   "active": "39558beb54ba9720",
   "lastOpenFiles": [
-    "Test.md",
     "Test2.md",
+    "Test.md",
     "Test Canvas.canvas"
   ]
 }
