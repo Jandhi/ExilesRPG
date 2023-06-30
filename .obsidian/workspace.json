@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5ee1d82d04fc4b16",
+        "id": "500a9095443edec9",
         "type": "tabs",
         "children": [
           {
-            "id": "2b08165f4b8edd1f",
+            "id": "39558beb54ba9720",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "b86c4f55deb1f620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b86c4f55deb1f620",
+  "active": "39558beb54ba9720",
   "lastOpenFiles": [
-    "Test.md"
+    "Test.md",
+    "Test2.md",
+    "Test Canvas.canvas"
   ]
 }

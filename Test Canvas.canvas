@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"308895631caca81a","x":-60,"y":-100,"width":340,"height":60,"color":"2","type":"text","text":"This is a note [[Test]]"}
+	],
+	"edges":[]
+}
