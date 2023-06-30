@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"type":"text","text":"This is a note [[Test]]","id":"308895631caca81a","x":-460,"y":-200,"width":340,"height":60,"color":"2"},
-		{"id":"6a996b76bf22cff4","x":-754,"y":-414,"width":250,"height":60,"type":"text","text":"This is a second note"}
-	],
-	"edges":[
-		{"id":"9bade3c67b45a442","fromNode":"308895631caca81a","fromSide":"left","toNode":"6a996b76bf22cff4","toSide":"bottom"}
-	]
-}

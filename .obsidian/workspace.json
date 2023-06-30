@@ -11,18 +11,28 @@
             "id": "39558beb54ba9720",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Test Canvas.canvas",
-                "viewState": {
-                  "x": -290,
-                  "y": -170,
-                  "zoom": 0
-                }
+                "file": "Rules/Skills & Domains.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a8f9a352e72e3b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Classes/The Scion.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Canvas.canvas",
+                "file": "Rules/Classes/The Scion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Canvas.canvas",
+                "file": "Rules/Classes/The Scion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Canvas.canvas"
+                "file": "Rules/Classes/The Scion.md"
               }
             }
           }
@@ -149,10 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39558beb54ba9720",
+  "active": "8a8f9a352e72e3b2",
   "lastOpenFiles": [
+    "Rules/Skills & Domains.md",
+    "Rules/Classes/The Scion.md",
+    "Lore",
+    "Rules/Classes",
+    "Test Canvas.canvas",
     "Test2.md",
-    "Test.md",
-    "Test Canvas.canvas"
+    "Rules"
   ]
 }
