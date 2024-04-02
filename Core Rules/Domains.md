@@ -1,0 +1,10 @@
+- **Arcane.** The realm of fae creatures and strange magicks.
+- **Blight.** The realm of monsters and otherworldly corruption.
+- **Divine.** The realm of faith and the gods. 
+- **Haven.** The realm of commonfolk and settlements.
+- **Lore.** The realm of scholarship and history.
+- **Nobility.** The realm of rulers and clan.
+- **Outlaw.** The realm of crime and shadow.
+- **Trade.** The realm of merchantry, craftsmen, and travel.
+- **War.** The realm of blades and battlefields. 
+- **Wild.** The realm of nature and beasts.

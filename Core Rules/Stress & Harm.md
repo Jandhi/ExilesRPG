@@ -1,0 +1,19 @@
+As a cost or consequence, the Guide may tell you to take stress to a Resistance. Your resistances are abstract representations of your character’s resources and well-being. They include:
+
+- **Blood.** Your body’s ability to keep going. 
+- **Resolve.** Your willpower and sanity. 
+- **Renown.** Your connections and supplies. 
+- **Fate.** Your luck and safety.  
+- **Blight.** Your resistance to sinister corruption.
+
+#### Removing Stress
+There are two ways to remove stress. One is to take **Fallout** after taking stress, as outlined bellow. The other is to **Refresh** a resistance- when you **Refresh X**, clear that much stress.
+
+# Fallout
+When you take stress, there is a chance you will face consequences, or **Fallout**, as your resources and luck run out. 
+
+The Guide will roll a die. If the value they roll is equal to or less than your total amount of stress, you suffer fallout of the same type of resistance as the stress you took. On a 1-3 it will be **Minor** Fallout, and you clear all stress in that resistance. On a 4-6 it will be **Major** Fallout, and you may clear all your stress.
+
+Fallout is when the abstract stresses to your character’s resistances manifest into real consequences. It is grouped into **Minor**, Major, and **Critical**, in order of severity. When you take fallout, the guide may tell you to combine it with existing fallout of its level into fallout of a greater level.
+
+Some fallout is Immediate, meaning that it has some immediate effect and then vanished, while other fallout is Ongoing, staying on a character until removed. Fallout can be removed by taking an appropriate in- world action, such as visiting a healer for a broken leg or extorting a pardon from the High Justice.

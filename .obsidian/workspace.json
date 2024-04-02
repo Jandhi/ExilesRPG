@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0b8a1773369ccdaa",
+        "id": "0bea37482ebf75b7",
         "type": "tabs",
         "children": [
           {
-            "id": "d70c6688321448a1",
+            "id": "2a0c66789d8e4dd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Core Rules/Fallout List/Minor Fallout.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8bd908586b0f6c6f",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Core Rules/Fallout List/Minor Fallout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Core Rules/Fallout List/Minor Fallout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Core Rules/Fallout List/Minor Fallout.md"
+              }
             }
           }
         ]
@@ -138,8 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d70c6688321448a1",
+  "active": "2a0c66789d8e4dd5",
   "lastOpenFiles": [
-    "Test.md"
+    "Core Rules/Stress & Harm.md",
+    "Core Rules/Fallout List/Major Fallout.md",
+    "Core Rules/Fallout List/Minor Fallout.md",
+    "Core Rules/Domains.md",
+    "Core Rules/The Action Roll.md",
+    "Core Rules/Skills.md",
+    "Core Rules/Fallout List/Critical Fallout.md",
+    "Table of Contents.md",
+    "Playbooks/The Scion.md",
+    "Core Rules/Fallout List",
+    "Core Rules/Fallout.md",
+    "Core Rules/Camp/Camp Actions.md",
+    "Core Rules/Camp",
+    "\"The_Scion\".md",
+    "\"The.md",
+    "The.md",
+    "Untitled",
+    "Core Rules",
+    "Playbooks",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
