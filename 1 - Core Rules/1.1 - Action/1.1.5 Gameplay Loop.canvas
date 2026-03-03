@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"b610c58048c25844","type":"text","text":"GM sets **Position** & **Difficulty**","x":-350,"y":-80,"width":280,"height":60},
+		{"id":"5b0bcb1f1c75e48b","type":"text","text":"**ACTION LOOP**","x":-120,"y":-420,"width":176,"height":50,"color":"1"},
+		{"id":"0511ee15eba25950","type":"text","text":"The GM describes the consequences","x":80,"y":-339,"width":253,"height":99},
+		{"id":"55b25a57940d2356","type":"text","text":"Gather Dice. Gain die for each:\n- One for good luck\n- A relevant **skill**\n- A relevant **domain**\n- A relevant **mastery**\n- **Help**\n- Any **advantage**s from an item, the environment, or setup","x":-350,"y":80,"width":280,"height":320},
+		{"id":"ba4b60ec872381d3","type":"text","text":"Describe your action","x":-300,"y":-329,"width":180,"height":80},
+		{"id":"8f1d9cd346aac66f","type":"text","text":"Observe the highest result:\n**6s:** Critical Success\n**6:** Success\n**4-5:** Partial Success\n**2-3:** Failure\n**1:** Critical Failure","x":66,"y":-160,"width":280,"height":220},
+		{"id":"813aac227be05c26","type":"text","text":"Remove the X highest dice for each level of **difficulty**","x":81,"y":205,"width":250,"height":70}
+	],
+	"edges":[
+		{"id":"c9d5652263eec812","fromNode":"ba4b60ec872381d3","fromSide":"bottom","toNode":"b610c58048c25844","toSide":"top"},
+		{"id":"48f39da3d99ced45","fromNode":"b610c58048c25844","fromSide":"bottom","toNode":"55b25a57940d2356","toSide":"top"},
+		{"id":"0bfd41addf20de31","fromNode":"0511ee15eba25950","fromSide":"left","toNode":"ba4b60ec872381d3","toSide":"right"},
+		{"id":"46c8fcb49f14b890","fromNode":"55b25a57940d2356","fromSide":"right","toNode":"813aac227be05c26","toSide":"left"},
+		{"id":"925d0c09ae8a3e57","fromNode":"813aac227be05c26","fromSide":"top","toNode":"8f1d9cd346aac66f","toSide":"bottom"},
+		{"id":"d753d7e8704e8c87","fromNode":"8f1d9cd346aac66f","fromSide":"top","toNode":"0511ee15eba25950","toSide":"bottom"}
+	]
+}

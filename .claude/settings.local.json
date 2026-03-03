@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/jandohring/Documents/GitHub/ExilesRPG log --oneline --all)",
+      "Bash(git add:*)"
+    ]
+  }
+}

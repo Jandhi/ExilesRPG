@@ -1,0 +1,104 @@
+- [ ] Central Mechanics
+	- [x] Action Mechanism
+	- [ ] Fallouts (6 Minor, 3 Major, 3 Critical)
+		- [ ] Blood
+		- [ ] Resolve
+		- [ ] Favour
+		- [ ] Fate
+		- [ ] Corruption
+	- [ ] Camp
+	- [ ] Secrets & Trinkets (6 Each)
+		- [ ] Arcane
+		- [ ] Blight
+		- [ ] Divine
+		- [ ] Hearth
+		- [ ] Lore
+		- [ ] Order
+		- [ ] Outlaw
+		- [ ] Trade
+		- [ ] War
+		- [ ] Wild
+	- [ ] Relics (6 Each)
+		- [ ] Arcane
+		- [ ] Blight
+		- [ ] Divine
+		- [ ] Hearth
+		- [ ] Lore
+		- [ ] Order
+		- [ ] Outlaw
+		- [ ] Trade
+		- [ ] War
+		- [ ] Wild
+	- [ ] Travel
+	- [ ] XP
+- [ ] Characters brainstorm
+- [ ] Backgrounds
+- [ ] Characters
+	- [ ] Character template
+	- [ ] The Penitent / The Oathbreaker
+	- [ ] The Scion
+	- [ ] The Bounty Hunter / The Lawman
+	- [ ] The Wild One
+	- [ ] The Swindler / The Charlatan
+	- [ ] The Marked
+	- [ ] The Cleric
+	- [ ] The Shambler (mushroom) / Mycothurge
+	- [ ] The Faceless
+	- [ ] The Veteran
+	- [ ] The Vessel
+	- [ ] The Changeling
+- [ ] Bonds
+- [ ] Character Sheets
+- [ ] Locations (6 Each)
+	- [ ] Arcane
+	- [ ] Blight
+	- [ ] Divine
+	- [ ] Hearth
+	- [ ] Lore
+	- [ ] Order
+	- [ ] Outlaw
+	- [ ] Trade
+	- [ ] War
+	- [ ] Wild
+- [ ] Assets (6 Each)
+	- [ ] Arcane
+	- [ ] Blight
+	- [ ] Divine
+	- [ ] Hearth
+	- [ ] Lore
+	- [ ] Order
+	- [ ] Outlaw
+	- [ ] Trade
+	- [ ] War
+	- [ ] Wild
+- [ ] NPCs (6 Each)
+	- [ ] Arcane
+	- [ ] Blight
+	- [ ] Divine
+	- [ ] Hearth
+	- [ ] Lore
+	- [ ] Order
+	- [ ] Outlaw
+	- [ ] Trade
+	- [ ] War
+	- [ ] Wild
+- [ ] Threats
+	- [ ] Arcane
+	- [ ] Blight
+	- [ ] Divine
+	- [ ] Hearth
+	- [ ] Lore
+	- [ ] Order
+	- [ ] Outlaw
+	- [ ] Trade
+	- [ ] War
+	- [ ] Wild
+- [ ] Factions
+- [ ] Plot Mechanics
+- [ ] Worldbuilding
+	- [ ] Gods (1 for each Domain)
+- [ ] Initial Scenario
+	- [ ] The king has become corrupted? Armello
+	- [ ] The king is dead and there's a civil war?
+		- [ ] Escorting the secret heir
+	- [ ] Foreign place
