@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Core Rules/Fallout List/Minor Fallout.md",
+                "file": "Goals of this RPG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13a215711fbf44de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/The Penitent.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Core Rules/Fallout List/Minor Fallout.md",
+                "file": "Goals of this RPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Core Rules/Fallout List/Minor Fallout.md",
+                "file": "Goals of this RPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Core Rules/Fallout List/Minor Fallout.md"
+                "file": "Goals of this RPG.md"
               }
             }
           }
@@ -148,25 +160,27 @@
   },
   "active": "2a0c66789d8e4dd5",
   "lastOpenFiles": [
+    "Table of Contents.md",
+    "Core Rules/Camp/Camp Actions.md",
+    "Goals of this RPG.md",
     "Core Rules/Stress & Harm.md",
-    "Core Rules/Fallout List/Major Fallout.md",
+    "Core Rules/The Action Roll.md",
     "Core Rules/Fallout List/Minor Fallout.md",
     "Core Rules/Domains.md",
-    "Core Rules/The Action Roll.md",
-    "Core Rules/Skills.md",
+    "Classes/The Scion.md",
+    "Classes/The Penitent.md",
+    "Core Rules/Fallout List/Major Fallout.md",
     "Core Rules/Fallout List/Critical Fallout.md",
-    "Table of Contents.md",
-    "Playbooks/The Scion.md",
+    "Core Rules/Skills.md",
     "Core Rules/Fallout List",
     "Core Rules/Fallout.md",
-    "Core Rules/Camp/Camp Actions.md",
     "Core Rules/Camp",
     "\"The_Scion\".md",
     "\"The.md",
     "The.md",
     "Untitled",
     "Core Rules",
-    "Playbooks",
+    "Classes",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -9,7 +9,7 @@
 ### Renown
 - **Insulted.** You have made an enemy of someone influential in the local haven. They're going to make your life difficult. 
 - **Shattered.** An unimportant item is destroyed, or an important item gains \[*broken*] 
-- **Lawbreaker.** You have broken some local law or custom, and face a penalty. 
+- **Lawbreaker.** You have broken some minor local law or custom, and face a penalty. 
 
 ### Fortune
 - **Lost.** You lose your way, either together or separated from the group.

@@ -1,0 +1,17 @@
+- Simple to play
+	- Easy for players to pick up
+	- Nothing where a situation halts to a screech because a player doesn't know what to do
+- Simple to run
+	- Little to no balancing requiring, can be done on the fly
+	- Lots of pre-generated content, systems that provide seeds to improvise off
+- Inspiring to play and run
+	- Thematic content that makes people want to create characters and stories
+	- Generative systems that create inspiring seeds to work off of
+- Encourage a fiction-first type of play 
+	- Rules that encourage roleplay and exploring characters goals / drives
+	- Abilities that encourage players to improvise rather than plan excessively, spend rather than horde, and have their characters go through interesting hardships
+	- Endings that make character deaths satisfying
+- Modular
+	- Can insert or take out subsystems to fit the campaign and possibly setting
+- A solid gameplay loop that allows for moments of rest between action, and allows the GM to create variable pacing
+	- Combining the crunch of board games and the flavour of roleplaying 
